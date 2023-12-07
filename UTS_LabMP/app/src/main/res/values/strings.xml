@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">UTSMP3</string>
+    <string name="hello">Hello, Good Morning</string>
+    <string name="sophia">Sophia !</string>
+    <string name="search">Search</string>
+    <string name="fit_young_woman">FIT YOUNG WOMAN DOING\nBATLLE STRETCH TRAINING</string>
+    <string name="start_exercise">Start Exercise</string>
+    <string name="select_your_goal">SELECT YOUR GOAL</string>
+    <string name="loose_weight">Loose Weight</string>
+    <string name="gain_weight">Gain Weight</string>
+    <string name="body_building">Body Building</string>
+    <string name="healty">Healty</string>
+    <string name="category">CATEGORY</string>
+    <string name="see_all">See all</string>
+    <integer-array name="data_img">
+        <item>@drawable/yoga</item>
+        <item>@drawable/gym</item>
+        <item>@drawable/cardio</item>
+        <item>@drawable/stretch</item>
+        <item>@drawable/yoga</item>
+    </integer-array>
+    <string-array name="data_name">
+        <item>Yoga</item>
+        <item>Gym</item>
+        <item>Cardio</item>
+        <item>Stretch</item>
+        <item>Full Body</item>
+    </string-array>
+    <string name="popular_exercise">POPULAR EXERCISE</string>
+    <string name="full_shot_woman">Full Shot Woman Stretching Arm</string>
+    <string name="beginner">Beginner</string>
+    <string name="min_30">30 min</string>
+    <string name="athlete_practicing">Athlete Practicing Monochrome</string>
+    <string name="min_50">50 min</string>
+    <string name="meal_plans">MEAL PLANS</string>
+    <string name="greek_salad">Greek Salad with lettuce, green onion,</string>
+    <string name="kcal_150">150 kcal</string>
+    <string name="salad_fresh">Salad of fresh vegetables</string>
+    <string name="kcal_270">270 kcal</string>
+    <string name="additional_exercise">ADDITIONAL EXERCISE</string>
+    <string name="jumping_rope">Exercises with Jumping\nRope</string>
+    <string name="kcal_110">110 kcal</string>
+    <string name="min_10">10 min</string>
+    <string name="holding_jumping_rope">Exercises with Holding Jumping\nRope</string>
+    <string name="kcal_135">135 kcal</string>
+    <string name="min_8">8 min</string>
+    <string name="sitting_dumbbells">Exercises with Sitting\nDumbbells</string>
+    <string name="min_5">5 min</string>
+    <string name="home">Home</string>
+    <string name="meal_plans_lower">Meal Plans</string>
+    <string name="exercise">Exercise</string>
+    <string name="profile">Profile</string>
+</resources>

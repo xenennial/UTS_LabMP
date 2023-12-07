@@ -1,0 +1,50 @@
+com.mobile.uts_labmp.app-recyclerview-1.1.0-0 C:\Users\Elin\.gradle\caches\transforms-3\047bd0b12588b69eea1a771d5690687e\transformed\recyclerview-1.1.0\res
+com.mobile.uts_labmp.app-viewpager2-1.0.0-1 C:\Users\Elin\.gradle\caches\transforms-3\196da157482581aac936c03948aa0805\transformed\viewpager2-1.0.0\res
+com.mobile.uts_labmp.app-activity-ktx-1.8.0-2 C:\Users\Elin\.gradle\caches\transforms-3\21fb62ef8ffd88b7d441ada1c9fb08e9\transformed\activity-ktx-1.8.0\res
+com.mobile.uts_labmp.app-lifecycle-viewmodel-savedstate-2.6.2-3 C:\Users\Elin\.gradle\caches\transforms-3\2562f648e98d8e88976d9f48968e9dbf\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.mobile.uts_labmp.app-lifecycle-viewmodel-ktx-2.6.2-4 C:\Users\Elin\.gradle\caches\transforms-3\28b46f9538c716e1c8e67932ec3289d4\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.mobile.uts_labmp.app-appcompat-resources-1.6.1-5 C:\Users\Elin\.gradle\caches\transforms-3\2d404c29558b56bee34d3fafa0df8860\transformed\appcompat-resources-1.6.1\res
+com.mobile.uts_labmp.app-lifecycle-livedata-2.6.2-6 C:\Users\Elin\.gradle\caches\transforms-3\3063f1d3260ea0ebef8f13de66003e70\transformed\lifecycle-livedata-2.6.2\res
+com.mobile.uts_labmp.app-lifecycle-process-2.6.2-7 C:\Users\Elin\.gradle\caches\transforms-3\34782a2ab284b97c7185f0016095e61d\transformed\lifecycle-process-2.6.2\res
+com.mobile.uts_labmp.app-fragment-ktx-1.6.2-8 C:\Users\Elin\.gradle\caches\transforms-3\377b71ece59175077c6b922b03bd02ca\transformed\fragment-ktx-1.6.2\res
+com.mobile.uts_labmp.app-window-1.0.0-9 C:\Users\Elin\.gradle\caches\transforms-3\3abe0e9476ad8f929e793b86eeb8ac4f\transformed\window-1.0.0\res
+com.mobile.uts_labmp.app-navigation-ui-ktx-2.7.5-10 C:\Users\Elin\.gradle\caches\transforms-3\43a5ede4713cfb98348160559cdf4e4a\transformed\navigation-ui-ktx-2.7.5\res
+com.mobile.uts_labmp.app-slidingpanelayout-1.2.0-11 C:\Users\Elin\.gradle\caches\transforms-3\43c66ae63c69a6df5abb0951a2040b19\transformed\slidingpanelayout-1.2.0\res
+com.mobile.uts_labmp.app-fragment-1.6.2-12 C:\Users\Elin\.gradle\caches\transforms-3\450fcb748a44017f97bd866d2492841b\transformed\fragment-1.6.2\res
+com.mobile.uts_labmp.app-emoji2-views-helper-1.2.0-13 C:\Users\Elin\.gradle\caches\transforms-3\4a99d14449d70aadbe90835fd0997337\transformed\emoji2-views-helper-1.2.0\res
+com.mobile.uts_labmp.app-navigation-ui-2.7.5-14 C:\Users\Elin\.gradle\caches\transforms-3\4c7cf21997a485b16a920bcb7f5286cf\transformed\navigation-ui-2.7.5\res
+com.mobile.uts_labmp.app-emoji2-1.2.0-15 C:\Users\Elin\.gradle\caches\transforms-3\51b255ef0c9d5f18c6d3ddb254915dd5\transformed\emoji2-1.2.0\res
+com.mobile.uts_labmp.app-lifecycle-livedata-core-2.6.2-16 C:\Users\Elin\.gradle\caches\transforms-3\64ddcf77a13ff91c462d5a06c30351ed\transformed\lifecycle-livedata-core-2.6.2\res
+com.mobile.uts_labmp.app-profileinstaller-1.3.0-17 C:\Users\Elin\.gradle\caches\transforms-3\65762b700a9368e5deacd0de10cc590b\transformed\profileinstaller-1.3.0\res
+com.mobile.uts_labmp.app-lifecycle-runtime-2.6.2-18 C:\Users\Elin\.gradle\caches\transforms-3\6670f80f18074453cdb43c858458361f\transformed\lifecycle-runtime-2.6.2\res
+com.mobile.uts_labmp.app-navigation-common-2.7.5-19 C:\Users\Elin\.gradle\caches\transforms-3\7504e9de7d0b7858b44775bb4d78b682\transformed\navigation-common-2.7.5\res
+com.mobile.uts_labmp.app-lifecycle-livedata-core-ktx-2.6.2-20 C:\Users\Elin\.gradle\caches\transforms-3\760ce3b803ed9e13e1c813480485d343\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.mobile.uts_labmp.app-core-ktx-1.13.0-alpha02-21 C:\Users\Elin\.gradle\caches\transforms-3\8c874bdbcf88e0db10f8085c41081c3a\transformed\core-ktx-1.13.0-alpha02\res
+com.mobile.uts_labmp.app-startup-runtime-1.1.1-22 C:\Users\Elin\.gradle\caches\transforms-3\8f486d6a7d83e9d4ba2845db5bfc51e5\transformed\startup-runtime-1.1.1\res
+com.mobile.uts_labmp.app-transition-1.4.1-23 C:\Users\Elin\.gradle\caches\transforms-3\94e6f505a964b1ee1a1009d6f95c7988\transformed\transition-1.4.1\res
+com.mobile.uts_labmp.app-appcompat-1.6.1-24 C:\Users\Elin\.gradle\caches\transforms-3\94f2e29f6d6974220f5991461567ad58\transformed\appcompat-1.6.1\res
+com.mobile.uts_labmp.app-navigation-runtime-2.7.5-25 C:\Users\Elin\.gradle\caches\transforms-3\b247b80e67ddcba88972c075f18c9716\transformed\navigation-runtime-2.7.5\res
+com.mobile.uts_labmp.app-annotation-experimental-1.3.0-26 C:\Users\Elin\.gradle\caches\transforms-3\b6be7e6192670c805834ea7968a5bf1d\transformed\annotation-experimental-1.3.0\res
+com.mobile.uts_labmp.app-constraintlayout-2.1.4-27 C:\Users\Elin\.gradle\caches\transforms-3\bc823bb048a1a2e7346efb70af56717e\transformed\constraintlayout-2.1.4\res
+com.mobile.uts_labmp.app-navigation-runtime-ktx-2.7.5-28 C:\Users\Elin\.gradle\caches\transforms-3\c209f40240ede393b8ebbc43aa32d191\transformed\navigation-runtime-ktx-2.7.5\res
+com.mobile.uts_labmp.app-cardview-1.0.0-29 C:\Users\Elin\.gradle\caches\transforms-3\d0751843ba5d6ddb6134c45b959dd6b3\transformed\cardview-1.0.0\res
+com.mobile.uts_labmp.app-savedstate-ktx-1.2.1-30 C:\Users\Elin\.gradle\caches\transforms-3\d25a931953bf1312aa952182cd844ebf\transformed\savedstate-ktx-1.2.1\res
+com.mobile.uts_labmp.app-savedstate-1.2.1-31 C:\Users\Elin\.gradle\caches\transforms-3\d3d2d7fae290cf7d374e0a4b007d5093\transformed\savedstate-1.2.1\res
+com.mobile.uts_labmp.app-core-1.13.0-alpha02-32 C:\Users\Elin\.gradle\caches\transforms-3\d40997c4f7e634886b624a761bb445fe\transformed\core-1.13.0-alpha02\res
+com.mobile.uts_labmp.app-lifecycle-viewmodel-2.6.2-33 C:\Users\Elin\.gradle\caches\transforms-3\d817a4a02ae66d0c19c4247d45a9e5ff\transformed\lifecycle-viewmodel-2.6.2\res
+com.mobile.uts_labmp.app-drawerlayout-1.1.1-34 C:\Users\Elin\.gradle\caches\transforms-3\de4d56cc202245fe6572094ab9a4126c\transformed\drawerlayout-1.1.1\res
+com.mobile.uts_labmp.app-lifecycle-runtime-ktx-2.6.2-35 C:\Users\Elin\.gradle\caches\transforms-3\e08e65f378115920917f1ced7c918aee\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.mobile.uts_labmp.app-coordinatorlayout-1.1.0-36 C:\Users\Elin\.gradle\caches\transforms-3\e4f6b95cf61e270764fedb89b20802a9\transformed\coordinatorlayout-1.1.0\res
+com.mobile.uts_labmp.app-navigation-common-ktx-2.7.5-37 C:\Users\Elin\.gradle\caches\transforms-3\e8e6bc68cdc8bdb6feec5dc08892ac97\transformed\navigation-common-ktx-2.7.5\res
+com.mobile.uts_labmp.app-navigation-fragment-ktx-2.7.5-38 C:\Users\Elin\.gradle\caches\transforms-3\f43fc2cba0d9f7efed30a66f66efb9bf\transformed\navigation-fragment-ktx-2.7.5\res
+com.mobile.uts_labmp.app-activity-1.8.0-39 C:\Users\Elin\.gradle\caches\transforms-3\f8124a56101b7c665b617b2cb886cfc8\transformed\activity-1.8.0\res
+com.mobile.uts_labmp.app-material-1.10.0-40 C:\Users\Elin\.gradle\caches\transforms-3\fa0d99abe80b33e23a4d118a95ca7557\transformed\material-1.10.0\res
+com.mobile.uts_labmp.app-core-runtime-2.2.0-41 C:\Users\Elin\.gradle\caches\transforms-3\fb1ddc0c4d418475cf68de48f699bcc2\transformed\core-runtime-2.2.0\res
+com.mobile.uts_labmp.app-navigation-fragment-2.7.5-42 C:\Users\Elin\.gradle\caches\transforms-3\fece252a4749356755b7839881f01799\transformed\navigation-fragment-2.7.5\res
+com.mobile.uts_labmp.app-pngs-43 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\build\generated\res\pngs\debug
+com.mobile.uts_labmp.app-resValues-44 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\build\generated\res\resValues\debug
+com.mobile.uts_labmp.app-packageDebugResources-45 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mobile.uts_labmp.app-packageDebugResources-46 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mobile.uts_labmp.app-merged_res-47 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\build\intermediates\merged_res\debug
+com.mobile.uts_labmp.app-debug-48 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\src\debug\res
+com.mobile.uts_labmp.app-main-49 D:\Elin\kuliah\Semester 5\Lab MP\UTS\UTSMP3\app\src\main\res

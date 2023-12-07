@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_white_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/white_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_jumping.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/jumping.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_search.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/search.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_girlstretchingback.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/girlstretchingback.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_heart_icon.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/heart_icon.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/layout_item_row_category.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/layout/item_row_category.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_shot_beautiful_sporty.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/shot_beautiful_sporty.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_notification_icon.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/notification_icon.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_diet.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/diet.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_icon_home.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/icon_home.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_poppins_regular.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_sitting_dumbell.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/sitting_dumbell.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_cardio.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/cardio.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_profile.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/profile.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_holding_jumping.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/holding_jumping.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_fullbody.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/fullbody.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_gray2_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/gray2_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_bebasneue_regular.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/bebasneue_regular.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_gray_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/gray_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_yoga.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/yoga.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_yellow_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/yellow_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_salad1.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/salad1.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_stretch.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/stretch.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_montserrat_medium.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/montserrat_medium.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_line.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/line.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_montserrat_bold.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_black_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/black_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_red_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/red_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_vertical_line.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/vertical_line.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_gradient_orange.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/gradient_orange.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_gym.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/gym.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_blur_ellipse.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/blur_ellipse.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_blue_bg.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/blue_bg.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_salad2.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/salad2.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_clock.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/clock.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_montserrat_semibold.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/montserrat_semibold.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_sophia_img.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/sophia_img.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_circle.xml.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_dmsans_medium.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/dmsans_medium.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_exercise.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/exercise.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_calories.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/calories.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/font_dmsans_bold.ttf.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/font/dmsans_bold.ttf"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_looking_shocked.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/looking_shocked.png"
+    },
+    {
+        "merged": "com.mobile.uts_labmp.app-merged_res-47:/drawable_barbel.png.flat",
+        "source": "com.mobile.uts_labmp.app-main-49:/drawable/barbel.png"
+    }
+]
